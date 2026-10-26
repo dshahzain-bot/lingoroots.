@@ -1,0 +1,11 @@
+{
+  "name": "LingoRoots — Language Learning",
+  "short_name": "LingoRoots",
+  "description": "Practise real conversations across languages and regional dialects.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#fffaf3",
+  "theme_color": "#39264f",
+  "orientation": "portrait",
+  "icons": []
+}
